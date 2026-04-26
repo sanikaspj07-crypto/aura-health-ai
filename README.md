@@ -27,9 +27,5 @@ Aura Health AI is an AI-powered mobile app that:
 - Wearable data sync
 - Personalized health insights
 
-## 📽️ Demo
-(Attach your demo video or link here)
-
----
 
 Built for Hackathon 🚀
